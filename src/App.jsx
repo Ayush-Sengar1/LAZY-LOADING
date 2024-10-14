@@ -5,7 +5,7 @@ function App() {
   function hehe () {
     return (
       <div className='flex h-screen justify-center items-center text-2xl bg-teal-950 text-white'>
-        LAZY LOADING IS SUCCESFULL CONTENT IS LOADING...............
+        LAZY LOADING ..... <br/>CONTENT IS LOADING...............
       </div>
     )
 }
